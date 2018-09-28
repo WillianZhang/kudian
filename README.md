@@ -1,2 +1,2 @@
 # kudian
-cckd ~收银台
+cckd ~收银台～～
